@@ -16,8 +16,6 @@
 void setup() {
   // put your setup code here, to run once:
   // initialize digital pin LED_BUILTIN as an output.
-  int potPin = 0;     // Pin d'entrada per al potenciometre 
-  int ledPin = 13;    // Pin de sortida per al LED
   pinMode(ledPin, OUTPUT);   // declara el pin del LED com a sortida
 }
 
